@@ -7,6 +7,7 @@ Setup
 -----
 
 ```sh
+sudo gem install bundler
 bundle install
 ```
 
