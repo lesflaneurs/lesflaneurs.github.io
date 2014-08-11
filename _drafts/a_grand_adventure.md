@@ -4,13 +4,14 @@ August 15th will be my last day at Zillow.
 
 Six years is a long time. Not long enough, however, to prepare me to write this
 email. I am overcome with gratitude, wistfulness, and excitement.
+Words become strange after you stare at them for hours.
 
 Zillow has changed a lot during my time here, but it remains as challenging,
 exciting, and rewarding as the day I started. I have had the great fortune to
 work with great colleagues, ship tons of features, and make many friends.
 
-Thanks to Zillow, I have grown as an engineer, an individual, and a citizen of
-the world. I will remain eternally grateful.
+Thanks to Zillow, I have grown as an engineer, as an individual, and as a
+citizen of the world. I will remain eternally grateful.
 
 Maureen (my wife) and I are embarking on a new adventure: moving to Paris,
 France, and living abroad for a year. A lifelong dream, a life-changing
