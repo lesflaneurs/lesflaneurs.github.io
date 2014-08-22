@@ -1,0 +1,10 @@
+timezone: Europe/Paris
+kramdown:
+  input: GFM
+permalink: pretty
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "post"
