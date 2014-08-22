@@ -1,9 +1,10 @@
-# A Grand Adventure
-
-Today is my last day at Zillow.
+---
+author: Daniel
+title: "Farewell, Zillow"
+---
 
 Six years is a long time. Not long enough, however, to prepare me to write this
-email. I am overcome with gratitude, wistfulness, and excitement.
+post. I am overcome with gratitude, wistfulness, and excitement.
 Words become strange after you stare at them for hours.
 
 Zillow has changed a lot during my time here, but it remains as challenging,
@@ -19,12 +20,3 @@ experience, a once-in-a-lifetime opportunity.
 
 I expect great things from Zillow. I am confident that I will not be
 disappointed. The future is bright.
-
-Please stay in touch:
-
-* daniel.stockman@gmail.com
-* http://www.lesflaneurs.net/ (our new travel blog)
-* https://twitter.com/evocateur
-* https://www.facebook.com/danielstockman
-* https://www.flickr.com/photos/evocateur/
-* https://www.linkedin.com/in/danielstockman
