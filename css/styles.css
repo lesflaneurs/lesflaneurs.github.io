@@ -20,6 +20,7 @@ h1, h2, h3 {
   line-height:1.1;
 }
 
+article header h2,
 h1 {
   font-size:28px;
 }
@@ -36,6 +37,10 @@ a {
   color:#39c;
   font-weight:400;
   text-decoration:none;
+}
+article header h2 a {
+    font-weight: 700;
+    color:#393939;
 }
 
 a small {
