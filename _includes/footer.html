@@ -1,0 +1,10 @@
+<footer>
+    <p>
+        Published
+        <time datetime="{{ include.date | date_to_rfc822 }}">
+        {{ include.date | date_to_string }}
+        </time>
+        by
+        {{ include.author }}
+    </p>
+</footer>

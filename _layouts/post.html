@@ -2,6 +2,7 @@
 layout: default
 ---
 <article>
-    <h2>{{ page.title }}</h2>
+{% include header.html url=page.url title=page.title %}
 {{ content }}
+{% include footer.html date=page.date author=page.author %}
 </article>
