@@ -1,6 +1,7 @@
 timezone: Europe/Paris
 kramdown:
   input: GFM
+  hard_wrap: false
 permalink: pretty
 defaults:
   -
