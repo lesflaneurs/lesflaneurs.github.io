@@ -3,6 +3,15 @@ kramdown:
   input: GFM
   hard_wrap: false
 permalink: pretty
+
+# Poole Setup
+title: "Les Flaneurs"
+tagline: "Two Americans in Paris"
+description: "Stories of life abroad."
+url: http://www.lesflaneurs.net
+baseurl: /
+paginate: 5
+
 defaults:
   -
     scope:

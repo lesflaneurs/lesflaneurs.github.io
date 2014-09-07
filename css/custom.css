@@ -1,0 +1,14 @@
+/* custom overrides and tweaks */
+.post-date {
+    display: inline-block;
+}
+
+/* Cyan (base16) */
+.content  a,
+.related-posts li a:hover {
+    color: #75b5aa;
+}
+
+.post-title a {
+    color: inherit;
+}
