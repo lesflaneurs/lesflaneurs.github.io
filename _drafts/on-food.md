@@ -1,0 +1,19 @@
+----
+author: Maureen
+title: On Food
+----
+
+In some ways, moving to Paris has been like learning how to be an adult all over again. When you first move out on your own, you know roughly how to keep yourself alive, but you might not be terribly efficient at it. That's kind of how it is with us right now, a month into our stay here. 
+
+One way that living in Paris is different from vacationing here is the constant need to feed ourselves without always having to resort to going to a restaurant or picnicking on bread, cheese, and pastries every single meal. Back in Seattle, I would go to the grocery store once a week on the weekend and buy all the food that I thought we'd need or that I'd have time to prepare for the coming week and that mostly worked. You can do that in the States because most of us have space to store that food in pantries and giant refrigerators. To constrast, our cozy studio in Paris has a small two burner stove, a mini fridge, and a dishwasher (that I wish was an oven) and a little bit of counter space on which to store and prepare food. It is tiny. Consequently, I have to spend far more time thinking about and seeking out food than I'm used to. I'm also more constrained with what I can make. 
+
+So far I've learned that one of the less expensive ways to feed us seems to be to trek out to one of the many outdoor markets that pop up around Paris everyday and buy fruit at one stand, veggies at another, meat from the butcher, dairy products from the fromagerie, and bread from the boulangerie. It took me a week or so to gather the courage to go to a market and buy something, with my (at the time) mostly non-existant French. The hard part comes when they weigh your food and tell you how much you need to pay instead of handing you a recepit. It's usually far too quick for me to catch the entire amount, and more than once I've handed a vender way more money than I needed to because I only caught the first half of the price or something. They really like exact change here. Some people are nice about it, or switch to English, but sometimes you run into grumpy or impatient vendors. It's a lot more difficult to understand French in the wild as opposed to a classroom where the teachers speak slowly and enunciate (and possibly repeat what they said when met with a blank stare).
+
+Another challenge is figuring out how much of something a kilo is, as most items are sold by the kilogram. This challenge has kept me from ordering anything other than sausage from the butcher, because I can tell them how many links I want, but I have no clue how much pork or beef I need for two people in the metric system. Dammit America, why do we have to stubbornly stick to pounds and ounces? I'm sure the internet can tell me, so I can be prepared whenever I next gather the courage to probably do it/say it at least a little bit wrong. It wouldn't be the end of the world if I ordered too much or too little, as I can always attempt to fix my mistake, but the perfectionist in me wants to try to get it right if possible. 
+
+Even with these challenges, going to the market is pretty fun. The fruit and vegetable vendors shout about whatever they're trying to sell that day. Sometimes they offer you samples if things aren't too crazy. I can see how you would be able to develop a relationship with these vendors if you lived in the neighborhood and saw them everyday. The big Sunday market at Bastille is a crush of tourists and locals squeezing through the aisles between rows of stands, trying to take everything in. This is the market in which I've had the most success, because there's so much to look at and buy. Just last week, I found a stand with baskets of apples that 
+
+When we first got here, we made many trips to the little grocery store around the corner. 
+
+I find cooking a meal and creating something tasty with my own hands to be deeply satisfying, when I have the inclination and the time to spend in the kitchen.
+
