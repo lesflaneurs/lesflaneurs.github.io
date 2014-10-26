@@ -39,7 +39,7 @@ those who produce it. Quite romantic, no?
 As romantic as it is, for someone who doesn't speak much French (and is
 naturally shy), this is a bit daunting at first. It took me a week or so to
 gather the courage to go to one of the many outdoor markets and buy something,
-with my (at the time) mostly non-existant French. The hard part comes when they
+with my (at the time) mostly non-existent French. The hard part comes when they
 weigh your purchases and tell you how much you need to pay instead of handing you a
 receipt. Up until recently, I was having a hard time catching the entire amount,
 and more than once I've handed a vendor way more money than I needed to because
@@ -69,7 +69,7 @@ in. Everyone has their place - the old woman with the cat on a leash playing
 tunelessly on a violin sits at the top of the market; the short, muscular
 butcher who carries a spit loaded with roast chickens from the rotisserie to the
 counter one handed has a stand in the middle row next to one of the dried up
-fountains, the italian cheese and pasta stand draws customers in with its
+fountains, the Italian cheese and pasta stand draws customers in with its
 heavenly fragrance from deep within the left arm of the market. This is the
 market in which I've had the most success, because it has everything. Over the
 past month or so, I've made it a habit of trying a number of of many varieties
@@ -112,12 +112,11 @@ Just yesterday, I discovered the error of my ways and found the place where all
 the Parisians were shopping for food on a Saturday afternoon and it was
 *magical*. I felt like I had just gained entrance into a secret club. Which,
 considering that I was standing in the grocery section of what is essentially the
-French version of Target (Monoprix), is kind of lame. But for the past month or two I've
+French version of Target (Monoprix), is kind of lame. But for the past month or two 
 I've been going to what feels like the equivalent of Walmart (Franprix), because it
 was closest, so this was quite the upgrade for just a little bit more walking. I
 wandered around the store looking at all the things and trying not to get in the
 way of everyone rushing about trying to get their shopping done. The cashiers
 were even a bit more patient.
 
-In conclusion, I've been spending a lot of time figuring out to how to feed
-us lately. This is not a challenge that I expected to have when we moved here.
+
