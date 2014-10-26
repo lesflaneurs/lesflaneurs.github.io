@@ -1,7 +1,7 @@
-----
+---
 author: Maureen
 title: It's all French food, right?
-----
+---
 
 In some ways, moving to Paris has been like learning how to be an adult all over
 again. When you first move out on your own, you know roughly how to keep
