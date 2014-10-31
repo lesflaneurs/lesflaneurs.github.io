@@ -17,8 +17,7 @@ In retrospect, I had a very optimistic appraisal of my own ability to integrate
 into a completely different social context, especially one wherein I lacked
 expert-level language ability. The reality of the situation bites very hard.
 
-
-## observational humours
+## Observational Humours
 
 Anyone who has known me for a sufficient duration will not be surprised to hear
 that my retiring nature defeats many of the tactics one might use to combat
@@ -40,7 +39,7 @@ doesn't lend itself to making those tenuous bridges of social entreaty that are
 so automatic back home. It is eternally difficult to avoid constant comparisons
 to previously autonomic responses in Seattle.
 
-## bright spots
+## Bright Spots
 
 Our French class continues to be engaging, if occasionally murksome and
 embarrassing. The structure afforded by such a regular appointment is probably
@@ -61,7 +60,9 @@ old favourites. Pat Rothfuss's latest, "The Slow Regard of Silent Things," is of
 course phenomenally, exquisitely good. I've developed a space opera habit,
 devouring James S.A. Corey's "Expanse" series.
 
-## aspirational accountability
+The wine here is amazing. But you knew that already.
+
+## Aspirational Accountability
 
 November is the last month of our French class. It's also NaNoWriMo, which I've
 decided to join as an excuse to force myself to be productive. I won't be
