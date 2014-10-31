@@ -13,16 +13,10 @@ comfort in patterns, and perhaps because I'm still too chicken to explore other
 options. I'm just typing random things that occur to me in hopes that it unplugs
 the blockage of words stuck in my head. The music sucks today.
 
-Place is a stubborn concept. Place-ness. Place-hood. One of the hopes I had
-going into this was that a change of place would produce a change of
-perspective, altering experience in some fundamental way that would yield
-distinctive memories.
+In retrospect, I had a very optimistic appraisal of my own ability to integrate
+into a completely different social context, especially one wherein I lacked
+expert-level language ability. The reality of the situation bites very hard.
 
-Was I foolish? Not entirely, but there is a strong thread of misplaced
-expectations among the weft. In retrospect, I had a very optimistic appraisal of
-my own ability to integrate into a completely different social context,
-especially one wherein I lacked expert-level language ability. The reality of
-the situation bites very hard.
 
 ## observational humours
 
