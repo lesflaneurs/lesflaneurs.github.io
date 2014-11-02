@@ -15,7 +15,10 @@
 {% if page.title != "Home" %}
     <meta property="og:type" content="article">
     <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines }}">
-
+{% if page.thumbnail %}
+    <meta property="og:image" content="{{ page.thumbnail }}">
+    <meta property="twitter:image" content="{{ page.thumbnail }}">
+{% endif %}
     <meta name="twitter:card" content="summary">
     <meta property="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines }}">
 {% endif %}

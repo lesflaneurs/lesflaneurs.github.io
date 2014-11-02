@@ -2,6 +2,7 @@
 author: Daniel
 title: Electric Pyramid
 tags: innano
+thumbnail: https://farm8.staticflickr.com/7513/15671242866_061ae6f9c2_q.jpg
 ---
 
 I walked around the Louvre all afternoon, and I'm too tired to write anything of great moment. Have a picture I took last month as payment in kind:
